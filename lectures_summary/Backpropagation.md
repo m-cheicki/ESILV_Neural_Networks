@@ -46,3 +46,7 @@ When training a network, we repeat the following steps (for n epoches):
     The backpropagation focuses on step 2 while proposes an approach for
     computing \delta wi.
 
+Explaination links :
+
+-   [3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=1&ab_channel=3Blue1Brown)
+-   [The Coding Train](https://www.youtube.com/watch?v=XJ7HLz9VYz0&list=PLRqwX-V7Uu6aCibgK1PTWWu9by6XFdCfh&ab_channel=TheCodingTrain)
